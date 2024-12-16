@@ -12,25 +12,6 @@ Aujourd’hui, ce désir d’apprendre et de relever de nouveaux défis continue
 
 Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en **data science** et **data analysis**, et continuer à progresser pour repousser encore mes propres limites.
 
----
-
-### 📍 Points clés :
-- **Parcours** : Bac scientifique, Licence en Sciences de la Matière, Formation Data Analyst (OpenClassrooms)
-- **Compétences** : SQL, Python, PowerBi, Machine Learning, Git, GitHub, Docker, Streamlit
-- **Expériences** : Encadrement militaire et gestion de projets en tant que chef de chantier, développement de soft skills (communication, leadership, gestion du stress, pédagogie)
-
----
-
-### 🔍 Projets récents :
-- [Nom du projet 1](lien_du_projet) : Brève description du projet.
-- [Nom du projet 2](lien_du_projet) : Brève description du projet.
-
----
-
-### 📫 Contact :
-- **Email** : francoisvercellotti@gmail.com
-- **LinkedIn** : [votre profil LinkedIn](lien_vers_votre_profil)
-- **Portfolio** : [votre site personnel ou portfolio](lien_vers_site)
 
 ---
 Merci de votre visite, n'hésitez pas à me contacter pour toute collaboration ou opportunité !
