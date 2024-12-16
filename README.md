@@ -1,16 +1,24 @@
-## Hi there 👋
+## Bonjour, ravi de vous rencontrer, mais permettez que je me présente.
 
-<!--
-**francoisvercellotti/francoisvercellotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst passionné, je suis persuadé que c'est la richesse de mon parcours qui fait ma plus grande force.
 
-Here are some ideas to get you started:
+Après des études scientifiques et des postes de cadre dans l’armée et les travaux publics, j’ai découvert par hasard le monde de la data. Un univers complexe, en constante évolution, qui m’a captivé au point de me pousser hors de ma zone de confort pour relever un des défis les plus stimulants : repartir de zéro et tout apprendre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Au début de ma formation, l’informatique m’était totalement inconnu. Mais avec une curiosité sans limite et ma soif d’apprendre, j’ai rapidement pris de l’avance sur mon planning. Ce temps gagné, je l’ai mis à profit pour approfondir mes connaissances de manière autonome, explorant des projets de machine learning qui m’ont permis de maîtriser les outils, d’adopter les bonnes pratiques, en allant de l’exploration des données jusqu’à la mise en production de modèles.
+
+Aujourd’hui, ce désir d’apprendre et de relever de nouveaux défis continue de me motiver. Je suis désormais prêt à me lancer dans des projets concrets au sein d’une entreprise, pour mettre en pratique non seulement mes compétences techniques, mais aussi les qualités humaines que j’ai développées tout au long de mon parcours : travail en équipe, communication, pédagogie, et gestion du stress. Des atouts essentiels pour évoluer avec rigueur et efficacité dans un environnement dynamique.
+
+Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en data science et data analysis, et continuer à progresser pour repousser encore mes propres limites.
+
+
+---
+
+### Points clés :
+- **Parcours :** Bac scientifique, Licence en Sciences de la Matière, Formation Data Analyst (OpenClassrooms)
+- **Compétences :** SQL, Python, PowerBi, Machine Learning, Git, GitHub, Docker, Streamlit
+- **Expériences :** Encadrement militaire et gestion de projets en tant que chef de chantier, développement de soft skills (communication, leadership, gestion du stress, pédagogie)
+
+
+
+
+
