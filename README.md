@@ -2,16 +2,11 @@
 
 Permettez-moi tout d'abord de me présenter.
 
-**Data Analyst passionné**, je suis persuadé que c'est la richesse de mon parcours qui fait ma plus grande force.
+Data Analyst aguerri, je mets à profit un parcours atypique et riche pour transformer les données en leviers de performance stratégique. Fort d'une solide formation scientifique et d'expériences en management dans l'armée et les travaux publics, j'ai su réorienter ma carrière vers la data en menant avec succès des projets ambitieux.
 
-Après des études scientifiques et des postes de cadre dans l’armée et les travaux publics, j’ai découvert par hasard le monde fascinant de la data. Un univers complexe, en constante évolution, qui m’a captivé au point de me pousser hors de ma zone de confort pour relever un des défis les plus stimulants : repartir de zéro et tout apprendre.
+J'ai développé et déployé des solutions de Business Intelligence et de Data Engineering qui transforment des données brutes en insights pertinents, allant de l'optimisation de bases de données à la création de dashboards innovants pour l'analyse e-commerce et l'accès à l'eau potable. J'ai également conçu une application de prédiction immobilière intégrant une infrastructure MLOps, garantissant ainsi la reproductibilité et le déploiement industriel de modèles de machine learning.
 
-Au début de ma formation, l’informatique m’était totalement inconnu. Mais avec une curiosité sans limite et ma soif d’apprendre, j’ai rapidement pris de l’avance sur mon planning. Ce temps gagné, je l’ai mis à profit pour approfondir mes connaissances de manière autonome, explorant des projets de machine learning qui m’ont permis de maîtriser les outils, d’adopter les bonnes pratiques, en allant de l’exploration des données jusqu’à la mise en production de modèles.
-
-Aujourd’hui, ce désir d’apprendre et de relever de nouveaux défis continue de me motiver. Je suis désormais prêt à me lancer dans des projets concrets au sein d’une entreprise, pour mettre en pratique non seulement mes compétences techniques, mais aussi les qualités humaines que j’ai développées tout au long de mon parcours : travail en équipe, communication, pédagogie, et gestion du stress. Des atouts essentiels pour évoluer avec rigueur et efficacité dans un environnement dynamique.
-
-Mon objectif est clair : mettre ma curiosité insatiable et mes compétences au service de projets ambitieux en **data science** et **data analysis**, et continuer à progresser pour repousser encore mes propres limites.
-
+Ma maîtrise des outils (Python, SQL, Power BI, Git/GitHub, Docker) et ma capacité à gérer des projets complexes viennent compléter une expertise technique solide, enrichie par mon esprit d'initiative et mes compétences en communication. Aujourd'hui, je suis prêt à relever de nouveaux défis et à contribuer à des projets data ambitieux en apportant rigueur, vision stratégique et leadership.
 
 ---
 Merci de votre visite, n'hésitez pas à me contacter pour toute collaboration ou opportunité !
