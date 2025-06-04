@@ -1,12 +1,34 @@
-## Bonjour, ravi de vous rencontrer ! 👋
+## 📊 Bonjour et bienvenue sur mon GitHub 👋  
 
-Permettez-moi tout d'abord de me présenter.
+Je m'appelle **François Vercellotti**, **Data Analyst Freelance** avec une formation scientifique et un parcours  entre **gestion de projets terrain** et **business intelligence**.
 
-Data Analyst aguerri, je mets à profit un parcours atypique et riche pour transformer les données en leviers de performance stratégique. Fort d'une solide formation scientifique et d'expériences en management dans l'armée et les travaux publics, j'ai su réorienter ma carrière vers la data en menant avec succès des projets ambitieux.
+Mon métier aujourd’hui, c’est **de transformer les données en tableaux de bord et analyses opérationnelles** qui aident vraiment les entreprises à décider mieux et plus vite.
 
-J'ai développé et déployé des solutions de Business Intelligence et de Data Engineering qui transforment des données brutes en insights pertinents, allant de l'optimisation de bases de données à la création de dashboards innovants pour l'analyse e-commerce et l'accès à l'eau potable. J'ai également conçu une application de prédiction immobilière intégrant une infrastructure MLOps, garantissant ainsi la reproductibilité et le déploiement industriel de modèles de machine learning.
-
-Ma maîtrise des outils (Python, SQL, Power BI, Git/GitHub, Docker) et ma capacité à gérer des projets complexes viennent compléter une expertise technique solide, enrichie par mon esprit d'initiative et mes compétences en communication. Aujourd'hui, je suis prêt à relever de nouveaux défis et à contribuer à des projets data ambitieux en apportant rigueur, vision stratégique et leadership.
+Après des années à piloter des projets dans le BTP et à gérer des équipes sur le terrain, j’ai compris qu’une donnée sans mise en valeur est inutile.  
+C’est ce qui m’a amené à me spécialiser dans la **Business Intelligence et le Data Engineering**.
 
 ---
-Merci de votre visite, n'hésitez pas à me contacter pour toute collaboration ou opportunité !
+
+### 📌 Ce que vous trouverez ici :
+- 🖥️ Des projets **Power BI et SQL** pour structurer et automatiser le reporting commercial et financier  
+- 📊 Des analyses de volumétrie importante (**330K transactions e-commerce, 115M de trajets mobilité urbaine…**)  
+- 📈 Des **visualisations avancées et analyses statistiques sous Python**  
+- ⚙️ Des projets de **Data Engineering et pipelines automatisés** sous Python, SQL et BigQuery  
+
+---
+
+### 🎯 Mon objectif :
+✅ Automatiser les reporting pénibles et rendre la data lisible  
+✅ Aider les équipes métier à piloter leur activité sans jargon technique  
+✅ Concevoir des dashboards qui donnent envie d’être consultés  
+✅ Vulgariser et rendre la data accessible à ceux qui en ont besoin  
+
+---
+
+Merci de votre visite ici 👋  
+Si vous souhaitez échanger, collaborer ou me parler de vos projets data, **vous êtes au bon endroit.**
+
+📩 **Contact : francoisvercellotti@gmail.com**
+
+---
+
