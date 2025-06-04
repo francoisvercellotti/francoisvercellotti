@@ -15,7 +15,7 @@ C'est ce qui m'a amené à me spécialiser dans la **Business Intelligence et le
 - 🐍 **Analyses Python avancées** (Pandas, Matplotlib, Seaborn, analyses statistiques)
 - 🗃️ **Pipelines de données** (SQL, BigQuery, automatisation des flux)
 - 📊 **Dashboards Power BI** pour le pilotage commercial et financier
-- 📈 **Projets de volumétrie importante** (330K transactions e-commerce, 115M trajets mobilité urbaine)
+- 📈 **Analyses sur des jeux de données massifs** (330K transactions e-commerce, 115M trajets mobilité urbaine)
 
 ---
 
